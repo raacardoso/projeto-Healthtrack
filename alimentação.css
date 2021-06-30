@@ -1,0 +1,20 @@
+#body{
+	background: white;
+}
+#cafe h1 {
+	font-family: helvetica;
+	text-align: center;
+	padding-top: 1px;
+
+}
+#agua h2{
+	font-family: helvetica ;
+	text-align: center;
+	padding-top: 2px;
+}
+#progre{
+	margin: 0 auto;
+	width: 1200px;
+	height: 40px;
+
+	}

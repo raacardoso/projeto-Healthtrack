@@ -1,0 +1,36 @@
+#tempo{
+	width: 0 auto;
+	background: lightgrey;
+	margin: 0 auto;
+	padding: 6px;
+	text-align: center;
+	margin-top: 14px;
+	font-size: 35px ;
+
+}
+#estatisticas{
+	background: lightgrey;
+	margin: 0 auto;
+	padding: 6px;
+	text-align: center;
+	margin-top: 14px;
+	font-size: 25px;
+}
+#modos{
+	background: lightcoral;
+	margin: 0 auto;
+	padding: 6px;
+	text-align: center;
+	margin-top: 14px;
+	font-size: 20px;
+	width: 0 auto;
+
+}
+#mapa{
+	background: #FFF;
+	margin: 0 auto;
+	padding: 6px;
+	text-align: center;
+	margin-top: 14px;
+	width: 0 auto;
+}
